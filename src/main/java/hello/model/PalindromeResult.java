@@ -2,9 +2,9 @@ package hello.model;
 
 public class PalindromeResult {
 
-	String word;
-	boolean palindrome;
-	boolean anagramOfPalindrome;
+	private String word;
+	private boolean palindrome;
+	private boolean anagramOfPalindrome;
 	public PalindromeResult() {
 		
 	}
